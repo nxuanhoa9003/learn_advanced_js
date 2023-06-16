@@ -10,11 +10,11 @@ function createApp() {
   };
 }
 
-const Cars = createApp();
-console.log(Cars);
+// const Cars = createApp();
+// console.log(Cars);
 
-Cars.add("bmw");
-Cars.add("kia");
-Cars.add("mazda");
-Cars.add("honda");
-Cars.show();
+// Cars.add("bmw");
+// Cars.add("kia");
+// Cars.add("mazda");
+// Cars.add("honda");
+// Cars.show();
