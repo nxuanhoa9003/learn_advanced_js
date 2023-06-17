@@ -46,4 +46,4 @@ const app = (() => {
   };
 })();
 
-app.innit();
+// app.innit();
