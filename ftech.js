@@ -35,3 +35,7 @@
 // fetch("http://localhost:3000/courses/${id}", {
 //   method: "DELETE",
 // });
+
+fetch("http://localhost:3000/courses")
+  .then((response) => response.json())
+  .then((response) => console.log(response));
